@@ -16,3 +16,16 @@
 
 @import "bootstrap-sprockets";  /*ここを追加*/
 @import "bootstrap";            /*ここを追加*/
+
+header {
+	color:white;
+}
+
+header .navbar-left span {
+	font-size: 30px;
+  line-height: 60px;
+}
+
+body {
+	margin-top: 70px;
+}
